@@ -58,6 +58,7 @@ Each row represents energy consumption data for a specific **country, energy typ
 ## 📊 Dashboards Overview
 
 ### 1️⃣ Energy Consumption Overview Dashboard
+<img width="1656" height="862" alt="Energy Consumption Overview Dashboard" src="https://github.com/user-attachments/assets/c9fb0660-f325-43e7-87a6-5c52c72fb895" />
 
 **Purpose:**
 To understand overall energy usage patterns across countries, sectors, and energy sources.
@@ -78,6 +79,7 @@ To understand overall energy usage patterns across countries, sectors, and energ
 ---
 
 ### 2️⃣ Demand & Environmental Impact Dashboard
+<img width="1655" height="860" alt="Demand   Environmental Impact Dashboard" src="https://github.com/user-attachments/assets/b1adb71c-3376-4071-9e9f-838b0fab21da" />
 
 **Purpose:**
 To analyze demand behavior and environmental consequences of energy consumption.
