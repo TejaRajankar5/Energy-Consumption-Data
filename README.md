@@ -1,7 +1,3 @@
-Got it 👍
-Here’s a **polished, submission-ready README.md** for your **Energy Consumption dataset & dashboards**, written exactly the way recruiters, evaluators, and GitHub reviewers like to see it.
-
-You can **copy–paste this directly into README.md**.
 
 ---
 
