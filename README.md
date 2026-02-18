@@ -6,7 +6,7 @@ You can **copy–paste this directly into README.md**.
 ---
 
 # ⚡ Energy Consumption & Environmental Impact Analysis
-
+![Project image](Energy.jpg)
 ## 📌 Project Overview
 
 This project provides a comprehensive analysis of **global energy consumption patterns** across multiple countries, energy sources, and economic sectors.
